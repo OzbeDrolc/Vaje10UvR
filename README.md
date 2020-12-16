@@ -1,2 +1,2 @@
 # Vaje10UvR
-to je kar zanimivo
+to nekaj dobrega

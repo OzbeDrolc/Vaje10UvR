@@ -1,2 +1,5 @@
 # Vaje10UvR
-to nekaj dobrega
+naloga za UvR vaje 10
+
+# Sprememba 
+tole je zelo velika sprememba
